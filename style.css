@@ -29,7 +29,8 @@ body {
     color: #444444;
     line-height: 2;
     text-align: left;
-    width: 80%;
+    width: 60%;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
   }
